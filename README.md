@@ -1,7 +1,14 @@
+About drastii
+=====
+
 - 👋 Hi, I’m @drastii-py
-- 🌱 I’m currently learning python and json
-- 💞️ I’m looking to collaborate on nothin..
-- 📫 How to reach me, discord: @drastii.exe#3431
+- 🌱 I’m currently learning Python and JSON
+- 💞️ I’m looking to collaborate on nothin..*enables dnd mode*
+- 📫 How to reach me, discord: @drastii.exe#3431 but no no bully :)
+
+Upcoming projects
+=====
+Eniroid - I'm not even sure when I'll finish but its gonna be a fun and music bot for Discord
 
 <!---
 drastii-py/drastii-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
